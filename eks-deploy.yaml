@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-springboot-app
-        image: 329599628577.dkr.ecr.us-west-2.amazonaws.com/tumidola/myawesome-repo
+        image: 329599628577.dkr.ecr.us-west-2.amazonaws.com/myawesome-repo
         imagePullPolicy: Always
         ports:
         - containerPort: 8085
