@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 329599628577.dkr.ecr.us-west-2.amazonaws.com/tumidola/myawesome-repo
+  repository: 329599628577.dkr.ecr.us-west-2.amazonaws.com/myawesome-repo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
